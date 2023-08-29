@@ -1,0 +1,15 @@
+.App{
+    width:800px;
+    height:100vh;
+  }
+  .animelist{
+    height: 100vh;
+    width:100%;
+    margin-top: 50px;
+    margin-left: 20px;
+  }
+  .animeitem{
+    margin: 30px;
+    background-color: antiquewhite;
+  }
+  
