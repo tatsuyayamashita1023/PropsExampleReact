@@ -1,0 +1,10 @@
+.App{
+    height:400px;
+    width: 500px;
+    padding:50px;
+    background-color: aquamarine;
+}
+.children{
+    margin-top:30px;
+    background-color:bisque;
+}
